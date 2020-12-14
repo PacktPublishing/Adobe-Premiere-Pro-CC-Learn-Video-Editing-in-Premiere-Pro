@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/adobe-premiere-pro-cc-learn-video-editing-in-premiere-pro-video/9781789532876)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Adobe Premiere Pro CC: Learn Video Editing in Premiere Pro	
 This is the code repository for [Adobe Premiere Pro CC: Learn Video Editing in Premiere Pro](https://www.packtpub.com/application-development/adobe-premiere-pro-cc-learn-video-editing-premiere-pro-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
