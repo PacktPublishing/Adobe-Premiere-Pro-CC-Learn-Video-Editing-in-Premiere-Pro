@@ -36,3 +36,7 @@ N/A
 * [Adobe Premiere Pro CC: Greenscreen, Captions, Proxies and More [Video]]( https://www.packtpub.com/application-development/adobe-premiere-pro-cc-greenscreen-captions-proxies-and-more-video)
 
 * [Autonomous Cars: Deep Learning and Computer Vision in Python [Video]](https://www.packtpub.com/application-development/autonomous-cars-deep-learning-and-computer-vision-python-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789532876">https://packt.link/free-ebook/9781789532876 </a> </p>
