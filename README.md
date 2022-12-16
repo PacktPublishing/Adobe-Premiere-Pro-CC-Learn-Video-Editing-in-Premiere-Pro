@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789532876)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Adobe Premiere Pro CC: Learn Video Editing in Premiere Pro	
 This is the code repository for [Adobe Premiere Pro CC: Learn Video Editing in Premiere Pro](https://www.packtpub.com/application-development/adobe-premiere-pro-cc-learn-video-editing-premiere-pro-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
